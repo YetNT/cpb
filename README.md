@@ -23,7 +23,8 @@ cpb.bar(10, 100)
 | Empty Char | any        | false    |
 | Fill  Char | any        | false    |
 
-***Percentage*** - This is what percentage of the bar will be filled.
+### *Percentage* 
+This is what percentage of the bar will be filled.
 > `50` will fill half the bar
 > `100` will fill the entire bar.
 
