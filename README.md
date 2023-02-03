@@ -23,18 +23,18 @@ cpb.bar(10, 100)
 | Empty Char | any        | false    |
 | Fill  Char | any        | false    |
 
-### *Percentage* 
+#### Percentage 
 This is what percentage of the bar will be filled.
 > `50` will fill half the bar
 > `100` will fill the entire bar.
 
-### *Max* - 
+#### Max 
 The amount of bar elements allowed to be generated.
 > If `10` it will generate 50 bar elements, and paired with `10` for *percentage*, 5 bars will be marked filled and the 45 rest will be marked empty. (10% of 50 = 5)
 
-### *Empty Char*
+#### Empty Char
 What empty bar elements elements will be represented by. If not set it will be the default `0`
 
-### *Fill Char* 
+#### Fill Char
 What filled bar elements elements will be represented by. If not set it will be the default `1`
 

@@ -1,0 +1,25 @@
+{
+  "name": "cpb",
+  "version": "1.0.0",
+  "description": "Custom Progress Bar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yetity/cpb.git"
+  },
+  "keywords": [
+    "javascript",
+    "progress",
+    "bar",
+    "custom"
+  ],
+  "author": "YetNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yetity/cpb/issues"
+  },
+  "homepage": "https://github.com/Yetity/cpb#readme"
+}
